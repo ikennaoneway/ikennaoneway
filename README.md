@@ -2,6 +2,7 @@
 - 👀 I’m a data analyst and a cloud Engineer who has great interested in documenting my learning journey
 - 🌱 I’m currently a tutor and a consultant in Data analysis, cloud computing and Devops @ ONE-WAY ACADEMY and also learning new skills
 - 💞️ I’m open  to collaborate on on data analysis, cloud computing and devops ...
+- I'm the CEO/FOUNDER of One-way Technologies Limited Awka, Anambra State, Nigeria
 - 📫 lets connect on Linkedin @ https://www.linkedin.com/in/ikennaononaku
 
 
